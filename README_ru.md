@@ -48,7 +48,7 @@ data-uvstm-accordion-customID="[TriggerID] [ContentID]" <!-- Свои ID. Ука
 
 ### JS
 ```js
-// отсутствует
+uvstm_accordion(); // Инициализация модуля
 ```
 
 <hr>

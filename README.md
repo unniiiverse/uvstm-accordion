@@ -51,7 +51,7 @@ data-uvstm-accordion-customID="[TriggerID] [ContentID]" <!-- Own IDs. Indicated 
 
 ### JS
 ```js
-// none
+uvstm_accordion(); // init module
 ```
 
 <hr>
